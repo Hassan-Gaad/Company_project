@@ -1,0 +1,12 @@
+User:
+root
+-------
+Pass:
+Empty>> ''
+-------
+User & Host:
+root@localhost
+-------
+Port:
+3306
+-------
